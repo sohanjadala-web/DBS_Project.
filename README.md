@@ -17,6 +17,17 @@ An enterprise-grade, integrated **Machine Learning + Database Management System 
 
 ---
 
+## 🎓 Capstone Project Review Presentations (Reviews 0, 1, 2, 3, 4)
+Complete review presentation slide decks tailored for KL University capstone evaluations (Team 06):
+- **[CKD_Project_Review_0.pptx](CKD_Project/CKD_Project_Review_0.pptx)**: Review 0 (Project Inception, Problem Statement, Objectives, Tech Stack, Team Roles)
+- **[CKD_Project_Review_1.pptx](CKD_Project/CKD_Project_Review_1.pptx)**: Review 1 (Literature Survey, Research Gaps, 4-Tier Architecture, ER Diagrams, 3NF Schema)
+- **[CKD_Project_Review_2.pptx](CKD_Project/CKD_Project_Review_2.pptx)**: Review 2 (Implementation: DDL/DML, Stored Procedures, Triggers, ML Pipeline & SHAP)
+- **[CKD_Project_Review_3.pptx](CKD_Project/CKD_Project_Review_3.pptx)**: Review 3 (Testing & Integration: Pytest Suite, Concurrency Control, RBAC, Security & Views)
+- **[CKD_Project_Review_4.pptx](CKD_Project/CKD_Project_Review_4.pptx)**: Review 4 (Final Evaluation: Executive Summary, System Comparison, Live Demo, Societal Impact & Conclusion)
+
+
+---
+
 ## 📊 Dataset & Machine Learning Performance
 
 ### 1. Dataset Features (24 Clinical Attributes)
